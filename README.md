@@ -1,6 +1,6 @@
 # Swarmploy
 
-The GitHub profile of the Swarmploy project
+Swarmploy is an open-source fork of Dokploy with additional features and its own development direction.
 
 ## Licensing
 
